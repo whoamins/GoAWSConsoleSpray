@@ -1,4 +1,4 @@
-module github.com/WhiteOakSecurity/GoAWSConsoleSpray
+module github.com/whoamins/GoAWSConsoleSpray
 
 go 1.17
 
